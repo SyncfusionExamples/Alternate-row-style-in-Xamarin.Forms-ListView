@@ -1,4 +1,4 @@
-# How to style ListViewItem alternatively
+# How to style ListViewItem alternatively in Xamarin.Forms ListView
 
 The SfListView allows applying alternate row styling for items by finding the index of the underlying object using IValueConverter.
 
